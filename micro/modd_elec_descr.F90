@@ -5,9 +5,6 @@
 !-----------------------------------------------------------------
 !       #######################
         MODULE  MODD_ELEC_DESCR
-
-!$ACDC methods
-
 !       #######################
 !
 !!****  *MODD_ELEC_DESCR* - declaration of the electrical descriptive constants

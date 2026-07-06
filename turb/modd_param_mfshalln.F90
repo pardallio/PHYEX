@@ -6,9 +6,6 @@
 !-----------------------------------------------------------------
 !     #############################
       MODULE MODD_PARAM_MFSHALL_n
-
-!$ACDC methods 
-
 !     #############################
 !> @file
 !!      *MODD_PARAM_MFSHALL_n* - Declaration of Mass flux scheme free parameters

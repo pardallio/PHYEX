@@ -5,9 +5,6 @@
 !-----------------------------------------------------------------
 !     ######spl
       MODULE MODD_PARAM_ICE_n
-
-!$ACDC methods 
-
 !     #####################
 !> @file
 !!      *MODD_PARAM_ICE_n* - declaration of the control parameters for the
