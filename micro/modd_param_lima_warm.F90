@@ -5,9 +5,6 @@
 !-----------------------------------------------------------------
 !     ###########################
       MODULE MODD_PARAM_LIMA_WARM
-
-!$ACDC methods 
-
 !     ###########################
 !
 !!****  *MODD_PARAM_LIMA_WARM* - declaration of some descriptive parameters and

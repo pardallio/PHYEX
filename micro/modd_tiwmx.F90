@@ -1,9 +1,6 @@
 !@no_insert_drhook
 !     ######spl
       MODULE MODD_TIWMX
-
-!$ACDC methods
-
 !     ###############
 !
 !!****  *MODE_TIWMX* - 

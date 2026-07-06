@@ -5,9 +5,6 @@
 !-----------------------------------------------------------------
 !     ##################
       MODULE MODD_TURB_n
-
-!$ACDC methods 
-
 !     ##################
 !> @file
 !!****  *MODD_TURB$n* - declaration of turbulence scheme free parameters

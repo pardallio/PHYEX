@@ -5,9 +5,6 @@
 !-------------------------------------------------------------------------------
 !        ###############
          MODULE MODD_NSV
-
-!$ACDC methods 
-
 !        ###############
 !
 !!****  *MODD_NSV* - declaration of scalar variables numbers
